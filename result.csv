@@ -1,0 +1,763 @@
+Instance,N,M,Total,Algorithm,EF1,EFX,EF,PROP1
+spliddit\10_12_32490.instance,10,12,945,existence,945,945,49,945
+spliddit\10_12_32490.instance,10,12,945,remove all the agents,162,46,0,943
+spliddit\10_12_32490.instance,10,12,945,remove the best agent,110,26,0,945
+spliddit\10_2_33687.instance,10,2,945,existence,945,945,0,945
+spliddit\10_2_33687.instance,10,2,945,remove all the agents,801,801,0,945
+spliddit\10_2_33687.instance,10,2,945,remove the best agent,945,945,0,945
+spliddit\10_4_33729.instance,10,4,945,existence,945,945,0,945
+spliddit\10_4_33729.instance,10,4,945,remove all the agents,945,945,0,945
+spliddit\10_4_33729.instance,10,4,945,remove the best agent,945,945,0,945
+spliddit\10_8_16585.instance,10,8,945,existence,945,608,0,945
+spliddit\10_8_16585.instance,10,8,945,remove all the agents,296,12,0,941
+spliddit\10_8_16585.instance,10,8,945,remove the best agent,412,12,0,945
+spliddit\10_8_33732.instance,10,8,945,existence,945,825,0,945
+spliddit\10_8_33732.instance,10,8,945,remove all the agents,135,49,0,945
+spliddit\10_8_33732.instance,10,8,945,remove the best agent,182,77,0,945
+spliddit\11_12_32484.instance,11,12,1000,existence,1000,1000,46,1000
+spliddit\11_12_32484.instance,11,12,1000,remove all the agents,72,26,0,1000
+spliddit\11_12_32484.instance,11,12,1000,remove the best agent,121,23,0,1000
+spliddit\15_14_27300.instance,15,14,1000,existence,1000,1000,0,1000
+spliddit\15_14_27300.instance,15,14,1000,remove all the agents,334,174,0,1000
+spliddit\15_14_27300.instance,15,14,1000,remove the best agent,281,150,0,1000
+spliddit\15_15_28512.instance,15,15,1000,existence,1000,972,0,1000
+spliddit\15_15_28512.instance,15,15,1000,remove all the agents,0,0,0,1000
+spliddit\15_15_28512.instance,15,15,1000,remove the best agent,2,2,0,1000
+spliddit\4_10_103693.instance,4,10,3,existence,3,3,3,3
+spliddit\4_10_103693.instance,4,10,3,remove all the agents,3,3,3,3
+spliddit\4_10_103693.instance,4,10,3,remove the best agent,3,3,2,3
+spliddit\4_10_16098.instance,4,10,3,existence,3,3,3,3
+spliddit\4_10_16098.instance,4,10,3,remove all the agents,2,2,0,3
+spliddit\4_10_16098.instance,4,10,3,remove the best agent,2,2,0,3
+spliddit\4_10_84771.instance,4,10,3,existence,3,3,3,3
+spliddit\4_10_84771.instance,4,10,3,remove all the agents,3,3,3,3
+spliddit\4_10_84771.instance,4,10,3,remove the best agent,3,3,3,3
+spliddit\4_10_85415.instance,4,10,3,existence,3,3,1,3
+spliddit\4_10_85415.instance,4,10,3,remove all the agents,3,2,1,3
+spliddit\4_10_85415.instance,4,10,3,remove the best agent,3,2,1,3
+spliddit\4_11_79891.instance,4,11,3,existence,3,3,3,3
+spliddit\4_11_79891.instance,4,11,3,remove all the agents,3,3,2,3
+spliddit\4_11_79891.instance,4,11,3,remove the best agent,3,3,2,3
+spliddit\4_12_50064.instance,4,12,3,existence,3,3,3,3
+spliddit\4_12_50064.instance,4,12,3,remove all the agents,3,3,3,3
+spliddit\4_12_50064.instance,4,12,3,remove the best agent,3,3,2,3
+spliddit\4_12_50067.instance,4,12,3,existence,3,3,3,3
+spliddit\4_12_50067.instance,4,12,3,remove all the agents,3,3,3,3
+spliddit\4_12_50067.instance,4,12,3,remove the best agent,3,3,3,3
+spliddit\4_12_54700.instance,4,12,3,existence,3,3,3,3
+spliddit\4_12_54700.instance,4,12,3,remove all the agents,2,2,1,3
+spliddit\4_12_54700.instance,4,12,3,remove the best agent,3,3,1,3
+spliddit\4_12_54702.instance,4,12,3,existence,3,3,3,3
+spliddit\4_12_54702.instance,4,12,3,remove all the agents,2,2,1,3
+spliddit\4_12_54702.instance,4,12,3,remove the best agent,3,3,1,3
+spliddit\4_13_102365.instance,4,13,3,existence,3,3,1,3
+spliddit\4_13_102365.instance,4,13,3,remove all the agents,2,1,1,3
+spliddit\4_13_102365.instance,4,13,3,remove the best agent,3,2,1,3
+spliddit\4_15_5325.instance,4,15,3,existence,3,3,3,3
+spliddit\4_15_5325.instance,4,15,3,remove all the agents,2,1,1,3
+spliddit\4_15_5325.instance,4,15,3,remove the best agent,3,3,3,3
+spliddit\4_1_29031.instance,4,1,3,existence,3,3,0,3
+spliddit\4_1_29031.instance,4,1,3,remove all the agents,3,3,0,3
+spliddit\4_1_29031.instance,4,1,3,remove the best agent,3,3,0,3
+spliddit\4_20_94394.instance,4,20,3,existence,3,3,3,3
+spliddit\4_20_94394.instance,4,20,3,remove all the agents,3,3,3,3
+spliddit\4_20_94394.instance,4,20,3,remove the best agent,3,3,3,3
+spliddit\4_21_98460.instance,4,21,3,existence,3,3,3,3
+spliddit\4_21_98460.instance,4,21,3,remove all the agents,3,3,3,3
+spliddit\4_21_98460.instance,4,21,3,remove the best agent,3,2,2,3
+spliddit\4_24_30542.instance,4,24,3,existence,3,3,3,3
+spliddit\4_24_30542.instance,4,24,3,remove all the agents,3,3,3,3
+spliddit\4_24_30542.instance,4,24,3,remove the best agent,3,3,3,3
+spliddit\4_28_30543.instance,4,28,3,existence,3,3,3,3
+spliddit\4_28_30543.instance,4,28,3,remove all the agents,3,3,3,3
+spliddit\4_28_30543.instance,4,28,3,remove the best agent,3,3,3,3
+spliddit\4_29_32723.instance,4,29,3,existence,3,3,3,3
+spliddit\4_29_32723.instance,4,29,3,remove all the agents,3,3,0,3
+spliddit\4_29_32723.instance,4,29,3,remove the best agent,3,3,0,3
+spliddit\4_2_39626.instance,4,2,3,existence,3,3,0,3
+spliddit\4_2_39626.instance,4,2,3,remove all the agents,3,3,0,3
+spliddit\4_2_39626.instance,4,2,3,remove the best agent,2,2,0,3
+spliddit\4_2_52270.instance,4,2,3,existence,3,3,0,3
+spliddit\4_2_52270.instance,4,2,3,remove all the agents,3,3,0,3
+spliddit\4_2_52270.instance,4,2,3,remove the best agent,3,3,0,3
+spliddit\4_2_74390.instance,4,2,3,existence,3,3,1,3
+spliddit\4_2_74390.instance,4,2,3,remove all the agents,3,3,1,3
+spliddit\4_2_74390.instance,4,2,3,remove the best agent,3,3,1,3
+spliddit\4_2_75234.instance,4,2,3,existence,3,3,1,3
+spliddit\4_2_75234.instance,4,2,3,remove all the agents,3,3,1,3
+spliddit\4_2_75234.instance,4,2,3,remove the best agent,2,2,1,3
+spliddit\4_2_77631.instance,4,2,3,existence,3,3,0,3
+spliddit\4_2_77631.instance,4,2,3,remove all the agents,2,2,0,3
+spliddit\4_2_77631.instance,4,2,3,remove the best agent,1,1,0,3
+spliddit\4_2_86305.instance,4,2,3,existence,3,3,3,3
+spliddit\4_2_86305.instance,4,2,3,remove all the agents,3,3,3,3
+spliddit\4_2_86305.instance,4,2,3,remove the best agent,3,3,3,3
+spliddit\4_31_85738.instance,4,31,3,existence,3,3,3,3
+spliddit\4_31_85738.instance,4,31,3,remove all the agents,3,3,3,3
+spliddit\4_31_85738.instance,4,31,3,remove the best agent,3,3,3,3
+spliddit\4_31_85739.instance,4,31,3,existence,3,3,3,3
+spliddit\4_31_85739.instance,4,31,3,remove all the agents,3,3,3,3
+spliddit\4_31_85739.instance,4,31,3,remove the best agent,3,3,3,3
+spliddit\4_33_84646.instance,4,33,3,existence,3,3,1,3
+spliddit\4_33_84646.instance,4,33,3,remove all the agents,1,1,1,3
+spliddit\4_33_84646.instance,4,33,3,remove the best agent,3,3,1,3
+spliddit\4_35_85740.instance,4,35,3,existence,3,3,3,3
+spliddit\4_35_85740.instance,4,35,3,remove all the agents,3,2,2,3
+spliddit\4_35_85740.instance,4,35,3,remove the best agent,3,2,2,3
+spliddit\4_3_104863.instance,4,3,3,existence,3,3,1,3
+spliddit\4_3_104863.instance,4,3,3,remove all the agents,1,1,1,3
+spliddit\4_3_104863.instance,4,3,3,remove the best agent,3,1,1,3
+spliddit\4_3_17817.instance,4,3,3,existence,3,3,1,3
+spliddit\4_3_17817.instance,4,3,3,remove all the agents,2,2,1,3
+spliddit\4_3_17817.instance,4,3,3,remove the best agent,3,3,1,3
+spliddit\4_3_21645.instance,4,3,3,existence,3,3,0,3
+spliddit\4_3_21645.instance,4,3,3,remove all the agents,3,3,0,3
+spliddit\4_3_21645.instance,4,3,3,remove the best agent,3,3,0,3
+spliddit\4_3_22585.instance,4,3,3,existence,3,3,3,3
+spliddit\4_3_22585.instance,4,3,3,remove all the agents,3,3,3,3
+spliddit\4_3_22585.instance,4,3,3,remove the best agent,3,3,3,3
+spliddit\4_3_27157.instance,4,3,3,existence,3,3,1,3
+spliddit\4_3_27157.instance,4,3,3,remove all the agents,3,2,1,3
+spliddit\4_3_27157.instance,4,3,3,remove the best agent,3,3,1,3
+spliddit\4_3_41457.instance,4,3,3,existence,3,3,1,3
+spliddit\4_3_41457.instance,4,3,3,remove all the agents,3,3,1,3
+spliddit\4_3_41457.instance,4,3,3,remove the best agent,2,2,1,3
+spliddit\4_3_63319.instance,4,3,3,existence,3,3,0,3
+spliddit\4_3_63319.instance,4,3,3,remove all the agents,0,0,0,3
+spliddit\4_3_63319.instance,4,3,3,remove the best agent,2,1,0,3
+spliddit\4_3_86288.instance,4,3,3,existence,3,3,0,3
+spliddit\4_3_86288.instance,4,3,3,remove all the agents,2,0,0,3
+spliddit\4_3_86288.instance,4,3,3,remove the best agent,3,1,0,3
+spliddit\4_3_87118.instance,4,3,3,existence,3,3,0,3
+spliddit\4_3_87118.instance,4,3,3,remove all the agents,2,1,0,3
+spliddit\4_3_87118.instance,4,3,3,remove the best agent,3,1,0,3
+spliddit\4_41_82655.instance,4,41,3,existence,3,3,3,3
+spliddit\4_41_82655.instance,4,41,3,remove all the agents,3,2,2,3
+spliddit\4_41_82655.instance,4,41,3,remove the best agent,3,2,2,3
+spliddit\4_43_84555.instance,4,43,3,existence,3,3,3,3
+spliddit\4_43_84555.instance,4,43,3,remove all the agents,3,3,3,3
+spliddit\4_43_84555.instance,4,43,3,remove the best agent,3,3,3,3
+spliddit\4_4_102344.instance,4,4,3,existence,3,3,0,3
+spliddit\4_4_102344.instance,4,4,3,remove all the agents,2,2,0,3
+spliddit\4_4_102344.instance,4,4,3,remove the best agent,1,1,0,3
+spliddit\4_4_103733.instance,4,4,3,existence,3,3,1,3
+spliddit\4_4_103733.instance,4,4,3,remove all the agents,2,1,1,3
+spliddit\4_4_103733.instance,4,4,3,remove the best agent,3,2,1,3
+spliddit\4_4_15767.instance,4,4,3,existence,3,3,3,3
+spliddit\4_4_15767.instance,4,4,3,remove all the agents,2,2,1,3
+spliddit\4_4_15767.instance,4,4,3,remove the best agent,2,2,2,3
+spliddit\4_4_15773.instance,4,4,3,existence,3,3,1,3
+spliddit\4_4_15773.instance,4,4,3,remove all the agents,3,3,1,3
+spliddit\4_4_15773.instance,4,4,3,remove the best agent,3,3,1,3
+spliddit\4_4_17816.instance,4,4,3,existence,3,3,2,3
+spliddit\4_4_17816.instance,4,4,3,remove all the agents,3,3,2,3
+spliddit\4_4_17816.instance,4,4,3,remove the best agent,3,3,2,3
+spliddit\4_4_21655.instance,4,4,3,existence,3,3,3,3
+spliddit\4_4_21655.instance,4,4,3,remove all the agents,3,2,2,3
+spliddit\4_4_21655.instance,4,4,3,remove the best agent,3,2,2,3
+spliddit\4_4_22410.instance,4,4,3,existence,3,3,3,3
+spliddit\4_4_22410.instance,4,4,3,remove all the agents,3,3,3,3
+spliddit\4_4_22410.instance,4,4,3,remove the best agent,3,3,3,3
+spliddit\4_4_24403.instance,4,4,3,existence,3,3,0,3
+spliddit\4_4_24403.instance,4,4,3,remove all the agents,2,0,0,3
+spliddit\4_4_24403.instance,4,4,3,remove the best agent,3,0,0,3
+spliddit\4_4_24404.instance,4,4,3,existence,3,3,0,3
+spliddit\4_4_24404.instance,4,4,3,remove all the agents,2,1,0,3
+spliddit\4_4_24404.instance,4,4,3,remove the best agent,2,1,0,3
+spliddit\4_4_2829.instance,4,4,3,existence,3,3,0,3
+spliddit\4_4_2829.instance,4,4,3,remove all the agents,3,3,0,3
+spliddit\4_4_2829.instance,4,4,3,remove the best agent,2,1,0,3
+spliddit\4_4_29453.instance,4,4,3,existence,3,3,1,3
+spliddit\4_4_29453.instance,4,4,3,remove all the agents,1,0,0,3
+spliddit\4_4_29453.instance,4,4,3,remove the best agent,3,2,0,3
+spliddit\4_4_34914.instance,4,4,3,existence,3,3,0,3
+spliddit\4_4_34914.instance,4,4,3,remove all the agents,3,1,0,3
+spliddit\4_4_34914.instance,4,4,3,remove the best agent,3,2,0,3
+spliddit\4_4_35851.instance,4,4,3,existence,3,3,1,3
+spliddit\4_4_35851.instance,4,4,3,remove all the agents,3,3,1,3
+spliddit\4_4_35851.instance,4,4,3,remove the best agent,3,2,1,3
+spliddit\4_4_40306.instance,4,4,3,existence,3,2,1,3
+spliddit\4_4_40306.instance,4,4,3,remove all the agents,1,1,1,3
+spliddit\4_4_40306.instance,4,4,3,remove the best agent,3,1,1,3
+spliddit\4_4_40307.instance,4,4,3,existence,3,2,1,3
+spliddit\4_4_40307.instance,4,4,3,remove all the agents,1,1,1,3
+spliddit\4_4_40307.instance,4,4,3,remove the best agent,3,1,1,3
+spliddit\4_4_41099.instance,4,4,3,existence,3,3,1,3
+spliddit\4_4_41099.instance,4,4,3,remove all the agents,3,3,1,3
+spliddit\4_4_41099.instance,4,4,3,remove the best agent,3,3,1,3
+spliddit\4_4_41448.instance,4,4,3,existence,3,3,3,3
+spliddit\4_4_41448.instance,4,4,3,remove all the agents,3,3,3,3
+spliddit\4_4_41448.instance,4,4,3,remove the best agent,3,3,3,3
+spliddit\4_4_47632.instance,4,4,3,existence,3,3,3,3
+spliddit\4_4_47632.instance,4,4,3,remove all the agents,3,3,3,3
+spliddit\4_4_47632.instance,4,4,3,remove the best agent,3,3,3,3
+spliddit\4_4_51357.instance,4,4,3,existence,3,3,2,3
+spliddit\4_4_51357.instance,4,4,3,remove all the agents,3,3,2,3
+spliddit\4_4_51357.instance,4,4,3,remove the best agent,3,3,2,3
+spliddit\4_4_53343.instance,4,4,3,existence,3,1,0,3
+spliddit\4_4_53343.instance,4,4,3,remove all the agents,2,1,0,3
+spliddit\4_4_53343.instance,4,4,3,remove the best agent,3,1,0,3
+spliddit\4_4_54082.instance,4,4,3,existence,3,3,2,3
+spliddit\4_4_54082.instance,4,4,3,remove all the agents,3,3,2,3
+spliddit\4_4_54082.instance,4,4,3,remove the best agent,3,3,1,3
+spliddit\4_4_55939.instance,4,4,3,existence,3,3,1,3
+spliddit\4_4_55939.instance,4,4,3,remove all the agents,0,0,0,2
+spliddit\4_4_55939.instance,4,4,3,remove the best agent,3,2,1,3
+spliddit\4_4_60663.instance,4,4,3,existence,3,3,2,3
+spliddit\4_4_60663.instance,4,4,3,remove all the agents,2,2,2,3
+spliddit\4_4_60663.instance,4,4,3,remove the best agent,2,2,2,3
+spliddit\4_4_67190.instance,4,4,3,existence,3,3,0,3
+spliddit\4_4_67190.instance,4,4,3,remove all the agents,2,2,0,3
+spliddit\4_4_67190.instance,4,4,3,remove the best agent,2,2,0,3
+spliddit\4_4_6942.instance,4,4,3,existence,3,3,0,3
+spliddit\4_4_6942.instance,4,4,3,remove all the agents,1,1,0,3
+spliddit\4_4_6942.instance,4,4,3,remove the best agent,3,3,0,3
+spliddit\4_4_76841.instance,4,4,3,existence,3,1,0,3
+spliddit\4_4_76841.instance,4,4,3,remove all the agents,1,0,0,3
+spliddit\4_4_76841.instance,4,4,3,remove the best agent,3,1,0,3
+spliddit\4_4_77657.instance,4,4,3,existence,3,3,3,3
+spliddit\4_4_77657.instance,4,4,3,remove all the agents,3,3,3,3
+spliddit\4_4_77657.instance,4,4,3,remove the best agent,3,3,3,3
+spliddit\4_4_86294.instance,4,4,3,existence,3,1,1,3
+spliddit\4_4_86294.instance,4,4,3,remove all the agents,2,1,1,3
+spliddit\4_4_86294.instance,4,4,3,remove the best agent,3,1,1,3
+spliddit\4_4_86313.instance,4,4,3,existence,3,1,1,3
+spliddit\4_4_86313.instance,4,4,3,remove all the agents,2,1,1,3
+spliddit\4_4_86313.instance,4,4,3,remove the best agent,3,1,1,3
+spliddit\4_4_8672.instance,4,4,3,existence,3,3,0,3
+spliddit\4_4_8672.instance,4,4,3,remove all the agents,2,1,0,3
+spliddit\4_4_8672.instance,4,4,3,remove the best agent,3,1,0,3
+spliddit\4_4_88300.instance,4,4,3,existence,3,3,2,3
+spliddit\4_4_88300.instance,4,4,3,remove all the agents,2,2,1,3
+spliddit\4_4_88300.instance,4,4,3,remove the best agent,3,3,2,3
+spliddit\4_4_91003.instance,4,4,3,existence,3,3,3,3
+spliddit\4_4_91003.instance,4,4,3,remove all the agents,3,3,2,3
+spliddit\4_4_91003.instance,4,4,3,remove the best agent,3,3,2,3
+spliddit\4_4_91004.instance,4,4,3,existence,3,3,3,3
+spliddit\4_4_91004.instance,4,4,3,remove all the agents,3,2,1,3
+spliddit\4_4_91004.instance,4,4,3,remove the best agent,3,2,1,3
+spliddit\4_4_94786.instance,4,4,3,existence,3,1,1,3
+spliddit\4_4_94786.instance,4,4,3,remove all the agents,3,1,1,3
+spliddit\4_4_94786.instance,4,4,3,remove the best agent,3,1,1,3
+spliddit\4_4_94796.instance,4,4,3,existence,3,3,3,3
+spliddit\4_4_94796.instance,4,4,3,remove all the agents,3,3,3,3
+spliddit\4_4_94796.instance,4,4,3,remove the best agent,3,3,3,3
+spliddit\4_4_94882.instance,4,4,3,existence,3,3,1,3
+spliddit\4_4_94882.instance,4,4,3,remove all the agents,3,2,1,3
+spliddit\4_4_94882.instance,4,4,3,remove the best agent,3,2,1,3
+spliddit\4_4_9620.instance,4,4,3,existence,3,3,1,3
+spliddit\4_4_9620.instance,4,4,3,remove all the agents,2,2,1,3
+spliddit\4_4_9620.instance,4,4,3,remove the best agent,3,3,1,3
+spliddit\4_4_98105.instance,4,4,3,existence,3,3,1,3
+spliddit\4_4_98105.instance,4,4,3,remove all the agents,1,1,0,3
+spliddit\4_4_98105.instance,4,4,3,remove the best agent,3,2,1,3
+spliddit\4_5_101824.instance,4,5,3,existence,3,3,1,3
+spliddit\4_5_101824.instance,4,5,3,remove all the agents,3,1,1,3
+spliddit\4_5_101824.instance,4,5,3,remove the best agent,3,2,1,3
+spliddit\4_5_102346.instance,4,5,3,existence,3,3,2,3
+spliddit\4_5_102346.instance,4,5,3,remove all the agents,3,3,2,3
+spliddit\4_5_102346.instance,4,5,3,remove the best agent,3,3,2,3
+spliddit\4_5_17678.instance,4,5,3,existence,3,3,1,3
+spliddit\4_5_17678.instance,4,5,3,remove all the agents,2,2,1,3
+spliddit\4_5_17678.instance,4,5,3,remove the best agent,3,2,1,3
+spliddit\4_5_3715.instance,4,5,3,existence,3,3,3,3
+spliddit\4_5_3715.instance,4,5,3,remove all the agents,3,3,3,3
+spliddit\4_5_3715.instance,4,5,3,remove the best agent,3,3,3,3
+spliddit\4_5_45421.instance,4,5,3,existence,3,3,1,3
+spliddit\4_5_45421.instance,4,5,3,remove all the agents,1,1,1,3
+spliddit\4_5_45421.instance,4,5,3,remove the best agent,1,1,1,3
+spliddit\4_5_76442.instance,4,5,3,existence,3,3,3,3
+spliddit\4_5_76442.instance,4,5,3,remove all the agents,3,1,1,3
+spliddit\4_5_76442.instance,4,5,3,remove the best agent,3,1,1,3
+spliddit\4_5_84770.instance,4,5,3,existence,3,3,1,3
+spliddit\4_5_84770.instance,4,5,3,remove all the agents,3,1,1,3
+spliddit\4_5_84770.instance,4,5,3,remove the best agent,3,1,1,3
+spliddit\4_6_102373.instance,4,6,3,existence,3,3,3,3
+spliddit\4_6_102373.instance,4,6,3,remove all the agents,1,0,0,3
+spliddit\4_6_102373.instance,4,6,3,remove the best agent,2,1,0,3
+spliddit\4_6_103204.instance,4,6,3,existence,3,3,3,3
+spliddit\4_6_103204.instance,4,6,3,remove all the agents,3,2,1,3
+spliddit\4_6_103204.instance,4,6,3,remove the best agent,3,2,1,3
+spliddit\4_6_103605.instance,4,6,3,existence,3,3,3,3
+spliddit\4_6_103605.instance,4,6,3,remove all the agents,3,3,3,3
+spliddit\4_6_103605.instance,4,6,3,remove the best agent,3,3,3,3
+spliddit\4_6_104271.instance,4,6,3,existence,3,3,2,3
+spliddit\4_6_104271.instance,4,6,3,remove all the agents,3,3,2,3
+spliddit\4_6_104271.instance,4,6,3,remove the best agent,3,3,2,3
+spliddit\4_6_18812.instance,4,6,3,existence,3,3,2,3
+spliddit\4_6_18812.instance,4,6,3,remove all the agents,3,2,2,3
+spliddit\4_6_18812.instance,4,6,3,remove the best agent,3,3,2,3
+spliddit\4_6_22824.instance,4,6,3,existence,3,3,0,3
+spliddit\4_6_22824.instance,4,6,3,remove all the agents,0,0,0,3
+spliddit\4_6_22824.instance,4,6,3,remove the best agent,3,1,0,3
+spliddit\4_6_24402.instance,4,6,3,existence,3,3,2,3
+spliddit\4_6_24402.instance,4,6,3,remove all the agents,2,0,0,3
+spliddit\4_6_24402.instance,4,6,3,remove the best agent,3,1,0,3
+spliddit\4_6_28855.instance,4,6,3,existence,3,3,2,3
+spliddit\4_6_28855.instance,4,6,3,remove all the agents,2,2,1,3
+spliddit\4_6_28855.instance,4,6,3,remove the best agent,2,2,2,3
+spliddit\4_6_42853.instance,4,6,3,existence,3,3,3,3
+spliddit\4_6_42853.instance,4,6,3,remove all the agents,3,3,3,3
+spliddit\4_6_42853.instance,4,6,3,remove the best agent,3,3,2,3
+spliddit\4_6_47232.instance,4,6,3,existence,3,2,1,3
+spliddit\4_6_47232.instance,4,6,3,remove all the agents,3,0,0,3
+spliddit\4_6_47232.instance,4,6,3,remove the best agent,3,1,0,3
+spliddit\4_6_5008.instance,4,6,3,existence,3,3,1,3
+spliddit\4_6_5008.instance,4,6,3,remove all the agents,2,1,0,3
+spliddit\4_6_5008.instance,4,6,3,remove the best agent,3,2,0,3
+spliddit\4_6_5009.instance,4,6,3,existence,3,3,1,3
+spliddit\4_6_5009.instance,4,6,3,remove all the agents,2,1,0,3
+spliddit\4_6_5009.instance,4,6,3,remove the best agent,3,2,0,3
+spliddit\4_6_54077.instance,4,6,3,existence,3,3,3,3
+spliddit\4_6_54077.instance,4,6,3,remove all the agents,3,3,3,3
+spliddit\4_6_54077.instance,4,6,3,remove the best agent,3,3,3,3
+spliddit\4_6_55539.instance,4,6,3,existence,3,3,2,3
+spliddit\4_6_55539.instance,4,6,3,remove all the agents,2,1,0,3
+spliddit\4_6_55539.instance,4,6,3,remove the best agent,3,3,0,3
+spliddit\4_6_81188.instance,4,6,3,existence,3,3,3,3
+spliddit\4_6_81188.instance,4,6,3,remove all the agents,3,3,2,3
+spliddit\4_6_81188.instance,4,6,3,remove the best agent,3,3,2,3
+spliddit\4_6_85986.instance,4,6,3,existence,3,3,1,3
+spliddit\4_6_85986.instance,4,6,3,remove all the agents,3,3,1,3
+spliddit\4_6_85986.instance,4,6,3,remove the best agent,3,3,1,3
+spliddit\4_6_88103.instance,4,6,3,existence,3,3,2,3
+spliddit\4_6_88103.instance,4,6,3,remove all the agents,3,3,2,3
+spliddit\4_6_88103.instance,4,6,3,remove the best agent,2,2,2,3
+spliddit\4_6_89320.instance,4,6,3,existence,3,3,2,3
+spliddit\4_6_89320.instance,4,6,3,remove all the agents,2,1,1,3
+spliddit\4_6_89320.instance,4,6,3,remove the best agent,3,2,1,3
+spliddit\4_6_89321.instance,4,6,3,existence,3,3,2,3
+spliddit\4_6_89321.instance,4,6,3,remove all the agents,2,1,1,3
+spliddit\4_6_89321.instance,4,6,3,remove the best agent,3,2,1,3
+spliddit\4_6_9089.instance,4,6,3,existence,3,3,1,3
+spliddit\4_6_9089.instance,4,6,3,remove all the agents,3,0,0,3
+spliddit\4_6_9089.instance,4,6,3,remove the best agent,3,0,0,3
+spliddit\4_7_103049.instance,4,7,3,existence,3,3,1,3
+spliddit\4_7_103049.instance,4,7,3,remove all the agents,2,2,1,3
+spliddit\4_7_103049.instance,4,7,3,remove the best agent,3,2,1,3
+spliddit\4_7_103052.instance,4,7,3,existence,3,3,1,3
+spliddit\4_7_103052.instance,4,7,3,remove all the agents,2,2,1,3
+spliddit\4_7_103052.instance,4,7,3,remove the best agent,3,2,1,3
+spliddit\4_7_103070.instance,4,7,3,existence,3,3,1,3
+spliddit\4_7_103070.instance,4,7,3,remove all the agents,2,2,1,3
+spliddit\4_7_103070.instance,4,7,3,remove the best agent,3,2,1,3
+spliddit\4_7_14002.instance,4,7,3,existence,3,3,3,3
+spliddit\4_7_14002.instance,4,7,3,remove all the agents,3,2,1,3
+spliddit\4_7_14002.instance,4,7,3,remove the best agent,3,3,1,3
+spliddit\4_7_19009.instance,4,7,3,existence,3,1,1,3
+spliddit\4_7_19009.instance,4,7,3,remove all the agents,2,1,1,3
+spliddit\4_7_19009.instance,4,7,3,remove the best agent,2,1,1,3
+spliddit\4_7_29247.instance,4,7,3,existence,3,3,2,3
+spliddit\4_7_29247.instance,4,7,3,remove all the agents,3,3,2,3
+spliddit\4_7_29247.instance,4,7,3,remove the best agent,3,3,2,3
+spliddit\4_7_84769.instance,4,7,3,existence,3,3,2,3
+spliddit\4_7_84769.instance,4,7,3,remove all the agents,3,2,2,3
+spliddit\4_7_84769.instance,4,7,3,remove the best agent,3,3,2,3
+spliddit\4_7_8597.instance,4,7,3,existence,3,3,1,3
+spliddit\4_7_8597.instance,4,7,3,remove all the agents,3,2,1,3
+spliddit\4_7_8597.instance,4,7,3,remove the best agent,3,2,1,3
+spliddit\4_7_8598.instance,4,7,3,existence,3,3,1,3
+spliddit\4_7_8598.instance,4,7,3,remove all the agents,3,2,1,3
+spliddit\4_7_8598.instance,4,7,3,remove the best agent,3,2,1,3
+spliddit\4_7_98500.instance,4,7,3,existence,3,3,3,3
+spliddit\4_7_98500.instance,4,7,3,remove all the agents,3,1,1,3
+spliddit\4_7_98500.instance,4,7,3,remove the best agent,3,1,1,3
+spliddit\4_8_1878.instance,4,8,3,existence,3,3,3,3
+spliddit\4_8_1878.instance,4,8,3,remove all the agents,3,3,2,3
+spliddit\4_8_1878.instance,4,8,3,remove the best agent,3,3,2,3
+spliddit\4_8_56986.instance,4,8,3,existence,3,3,2,3
+spliddit\4_8_56986.instance,4,8,3,remove all the agents,2,2,0,3
+spliddit\4_8_56986.instance,4,8,3,remove the best agent,3,2,0,3
+spliddit\4_8_6387.instance,4,8,3,existence,3,3,1,3
+spliddit\4_8_6387.instance,4,8,3,remove all the agents,3,1,1,3
+spliddit\4_8_6387.instance,4,8,3,remove the best agent,3,1,1,3
+spliddit\4_8_73412.instance,4,8,3,existence,3,3,3,3
+spliddit\4_8_73412.instance,4,8,3,remove all the agents,3,3,3,3
+spliddit\4_8_73412.instance,4,8,3,remove the best agent,3,3,3,3
+spliddit\4_8_81829.instance,4,8,3,existence,3,3,3,3
+spliddit\4_8_81829.instance,4,8,3,remove all the agents,3,3,3,3
+spliddit\4_8_81829.instance,4,8,3,remove the best agent,3,3,3,3
+spliddit\4_9_15831.instance,4,9,3,existence,3,3,3,3
+spliddit\4_9_15831.instance,4,9,3,remove all the agents,3,3,3,3
+spliddit\4_9_15831.instance,4,9,3,remove the best agent,3,3,3,3
+spliddit\4_9_17038.instance,4,9,3,existence,3,3,3,3
+spliddit\4_9_17038.instance,4,9,3,remove all the agents,3,3,3,3
+spliddit\4_9_17038.instance,4,9,3,remove the best agent,3,3,3,3
+spliddit\5_10_85732.instance,5,10,15,existence,15,15,10,15
+spliddit\5_10_85732.instance,5,10,15,remove all the agents,11,2,1,15
+spliddit\5_10_85732.instance,5,10,15,remove the best agent,14,2,1,15
+spliddit\5_10_85850.instance,5,10,15,existence,15,15,15,15
+spliddit\5_10_85850.instance,5,10,15,remove all the agents,9,5,1,15
+spliddit\5_10_85850.instance,5,10,15,remove the best agent,13,8,1,15
+spliddit\5_12_104295.instance,5,12,15,existence,15,15,15,15
+spliddit\5_12_104295.instance,5,12,15,remove all the agents,14,3,3,15
+spliddit\5_12_104295.instance,5,12,15,remove the best agent,12,2,2,15
+spliddit\5_12_4409.instance,5,12,15,existence,15,15,15,15
+spliddit\5_12_4409.instance,5,12,15,remove all the agents,15,10,7,15
+spliddit\5_12_4409.instance,5,12,15,remove the best agent,15,4,3,15
+spliddit\5_13_50375.instance,5,13,15,existence,15,15,15,15
+spliddit\5_13_50375.instance,5,13,15,remove all the agents,13,9,4,15
+spliddit\5_13_50375.instance,5,13,15,remove the best agent,11,7,3,15
+spliddit\5_13_50376.instance,5,13,15,existence,15,15,15,15
+spliddit\5_13_50376.instance,5,13,15,remove all the agents,13,9,4,15
+spliddit\5_13_50376.instance,5,13,15,remove the best agent,11,7,3,15
+spliddit\5_15_104000.instance,5,15,15,existence,15,15,15,15
+spliddit\5_15_104000.instance,5,15,15,remove all the agents,10,3,2,15
+spliddit\5_15_104000.instance,5,15,15,remove the best agent,9,2,1,15
+spliddit\5_15_105004.instance,5,15,15,existence,15,15,15,15
+spliddit\5_15_105004.instance,5,15,15,remove all the agents,10,7,2,15
+spliddit\5_15_105004.instance,5,15,15,remove the best agent,10,6,2,15
+spliddit\5_15_14812.instance,5,15,15,existence,15,15,15,15
+spliddit\5_15_14812.instance,5,15,15,remove all the agents,7,1,0,14
+spliddit\5_15_14812.instance,5,15,15,remove the best agent,10,2,1,15
+spliddit\5_15_5326.instance,5,15,15,existence,15,15,15,15
+spliddit\5_15_5326.instance,5,15,15,remove all the agents,10,2,1,15
+spliddit\5_15_5326.instance,5,15,15,remove the best agent,11,2,0,15
+spliddit\5_15_5331.instance,5,15,15,existence,15,15,15,15
+spliddit\5_15_5331.instance,5,15,15,remove all the agents,12,2,1,15
+spliddit\5_15_5331.instance,5,15,15,remove the best agent,12,3,0,15
+spliddit\5_15_93813.instance,5,15,15,existence,15,15,0,15
+spliddit\5_15_93813.instance,5,15,15,remove all the agents,0,0,0,15
+spliddit\5_15_93813.instance,5,15,15,remove the best agent,15,15,0,15
+spliddit\5_16_93812.instance,5,16,15,existence,15,15,0,15
+spliddit\5_16_93812.instance,5,16,15,remove all the agents,15,0,0,15
+spliddit\5_16_93812.instance,5,16,15,remove the best agent,15,0,0,15
+spliddit\5_18_79362.instance,5,18,15,existence,15,15,15,15
+spliddit\5_18_79362.instance,5,18,15,remove all the agents,15,10,7,15
+spliddit\5_18_79362.instance,5,18,15,remove the best agent,14,8,5,15
+spliddit\5_2_37219.instance,5,2,15,existence,15,15,0,15
+spliddit\5_2_37219.instance,5,2,15,remove all the agents,8,8,0,15
+spliddit\5_2_37219.instance,5,2,15,remove the best agent,14,14,0,15
+spliddit\5_2_56190.instance,5,2,15,existence,15,15,0,15
+spliddit\5_2_56190.instance,5,2,15,remove all the agents,15,15,0,15
+spliddit\5_2_56190.instance,5,2,15,remove the best agent,15,15,0,15
+spliddit\5_2_91125.instance,5,2,15,existence,15,15,0,15
+spliddit\5_2_91125.instance,5,2,15,remove all the agents,15,15,0,15
+spliddit\5_2_91125.instance,5,2,15,remove the best agent,15,15,0,15
+spliddit\5_2_91126.instance,5,2,15,existence,15,15,0,15
+spliddit\5_2_91126.instance,5,2,15,remove all the agents,15,15,0,15
+spliddit\5_2_91126.instance,5,2,15,remove the best agent,15,15,0,15
+spliddit\5_3_35657.instance,5,3,15,existence,15,15,0,15
+spliddit\5_3_35657.instance,5,3,15,remove all the agents,5,5,0,15
+spliddit\5_3_35657.instance,5,3,15,remove the best agent,14,14,0,15
+spliddit\5_3_35658.instance,5,3,15,existence,15,15,0,15
+spliddit\5_3_35658.instance,5,3,15,remove all the agents,5,5,0,15
+spliddit\5_3_35658.instance,5,3,15,remove the best agent,14,14,0,15
+spliddit\5_3_43521.instance,5,3,15,existence,15,15,0,15
+spliddit\5_3_43521.instance,5,3,15,remove all the agents,15,15,0,15
+spliddit\5_3_43521.instance,5,3,15,remove the best agent,15,15,0,15
+spliddit\5_3_43522.instance,5,3,15,existence,15,15,0,15
+spliddit\5_3_43522.instance,5,3,15,remove all the agents,15,15,0,15
+spliddit\5_3_43522.instance,5,3,15,remove the best agent,15,15,0,15
+spliddit\5_3_49091.instance,5,3,15,existence,15,15,0,15
+spliddit\5_3_49091.instance,5,3,15,remove all the agents,11,10,0,15
+spliddit\5_3_49091.instance,5,3,15,remove the best agent,12,12,0,15
+spliddit\5_3_86213.instance,5,3,15,existence,15,15,0,15
+spliddit\5_3_86213.instance,5,3,15,remove all the agents,11,11,0,15
+spliddit\5_3_86213.instance,5,3,15,remove the best agent,13,13,0,15
+spliddit\5_4_24287.instance,5,4,15,existence,15,15,0,15
+spliddit\5_4_24287.instance,5,4,15,remove all the agents,11,9,0,15
+spliddit\5_4_24287.instance,5,4,15,remove the best agent,10,10,0,15
+spliddit\5_4_41456.instance,5,4,15,existence,15,15,0,15
+spliddit\5_4_41456.instance,5,4,15,remove all the agents,14,14,0,15
+spliddit\5_4_41456.instance,5,4,15,remove the best agent,15,15,0,15
+spliddit\5_4_55540.instance,5,4,15,existence,15,15,1,15
+spliddit\5_4_55540.instance,5,4,15,remove all the agents,14,8,1,15
+spliddit\5_4_55540.instance,5,4,15,remove the best agent,12,6,1,15
+spliddit\5_4_70661.instance,5,4,15,existence,15,15,0,15
+spliddit\5_4_70661.instance,5,4,15,remove all the agents,14,14,0,15
+spliddit\5_4_70661.instance,5,4,15,remove the best agent,14,14,0,15
+spliddit\5_5_102788.instance,5,5,15,existence,15,15,1,15
+spliddit\5_5_102788.instance,5,5,15,remove all the agents,12,6,1,15
+spliddit\5_5_102788.instance,5,5,15,remove the best agent,14,9,1,15
+spliddit\5_5_11573.instance,5,5,15,existence,15,15,15,15
+spliddit\5_5_11573.instance,5,5,15,remove all the agents,13,9,6,15
+spliddit\5_5_11573.instance,5,5,15,remove the best agent,14,10,5,15
+spliddit\5_5_16631.instance,5,5,15,existence,15,15,1,15
+spliddit\5_5_16631.instance,5,5,15,remove all the agents,12,8,0,15
+spliddit\5_5_16631.instance,5,5,15,remove the best agent,14,9,0,15
+spliddit\5_5_24226.instance,5,5,15,existence,15,15,6,15
+spliddit\5_5_24226.instance,5,5,15,remove all the agents,9,7,4,15
+spliddit\5_5_24226.instance,5,5,15,remove the best agent,8,2,0,15
+spliddit\5_5_24227.instance,5,5,15,existence,15,15,3,15
+spliddit\5_5_24227.instance,5,5,15,remove all the agents,6,5,1,12
+spliddit\5_5_24227.instance,5,5,15,remove the best agent,11,9,0,15
+spliddit\5_5_24228.instance,5,5,15,existence,15,7,2,15
+spliddit\5_5_24228.instance,5,5,15,remove all the agents,8,4,1,15
+spliddit\5_5_24228.instance,5,5,15,remove the best agent,7,3,1,15
+spliddit\5_5_24230.instance,5,5,15,existence,15,15,2,15
+spliddit\5_5_24230.instance,5,5,15,remove all the agents,8,7,2,13
+spliddit\5_5_24230.instance,5,5,15,remove the best agent,11,8,2,15
+spliddit\5_5_24231.instance,5,5,15,existence,15,15,2,15
+spliddit\5_5_24231.instance,5,5,15,remove all the agents,8,7,2,13
+spliddit\5_5_24231.instance,5,5,15,remove the best agent,10,8,2,15
+spliddit\5_5_24257.instance,5,5,15,existence,15,15,3,15
+spliddit\5_5_24257.instance,5,5,15,remove all the agents,11,8,3,15
+spliddit\5_5_24257.instance,5,5,15,remove the best agent,9,6,3,15
+spliddit\5_5_26402.instance,5,5,15,existence,15,15,2,15
+spliddit\5_5_26402.instance,5,5,15,remove all the agents,9,3,0,15
+spliddit\5_5_26402.instance,5,5,15,remove the best agent,13,11,0,15
+spliddit\5_5_31367.instance,5,5,15,existence,15,15,0,15
+spliddit\5_5_31367.instance,5,5,15,remove all the agents,10,8,0,15
+spliddit\5_5_31367.instance,5,5,15,remove the best agent,15,8,0,15
+spliddit\5_5_34153.instance,5,5,15,existence,15,15,1,15
+spliddit\5_5_34153.instance,5,5,15,remove all the agents,9,1,0,15
+spliddit\5_5_34153.instance,5,5,15,remove the best agent,14,3,0,15
+spliddit\5_5_36718.instance,5,5,15,existence,15,15,15,15
+spliddit\5_5_36718.instance,5,5,15,remove all the agents,15,15,15,15
+spliddit\5_5_36718.instance,5,5,15,remove the best agent,15,15,15,15
+spliddit\5_5_42168.instance,5,5,15,existence,15,15,3,15
+spliddit\5_5_42168.instance,5,5,15,remove all the agents,8,5,0,15
+spliddit\5_5_42168.instance,5,5,15,remove the best agent,14,9,0,15
+spliddit\5_5_45341.instance,5,5,15,existence,15,15,3,15
+spliddit\5_5_45341.instance,5,5,15,remove all the agents,10,5,0,15
+spliddit\5_5_45341.instance,5,5,15,remove the best agent,13,8,0,15
+spliddit\5_5_55673.instance,5,5,15,existence,15,15,2,15
+spliddit\5_5_55673.instance,5,5,15,remove all the agents,13,13,2,15
+spliddit\5_5_55673.instance,5,5,15,remove the best agent,11,7,0,15
+spliddit\5_5_58829.instance,5,5,15,existence,15,15,1,15
+spliddit\5_5_58829.instance,5,5,15,remove all the agents,7,5,0,15
+spliddit\5_5_58829.instance,5,5,15,remove the best agent,13,10,0,15
+spliddit\5_5_58832.instance,5,5,15,existence,15,15,0,15
+spliddit\5_5_58832.instance,5,5,15,remove all the agents,6,3,0,15
+spliddit\5_5_58832.instance,5,5,15,remove the best agent,13,11,0,15
+spliddit\5_5_66619.instance,5,5,15,existence,15,14,1,15
+spliddit\5_5_66619.instance,5,5,15,remove all the agents,12,4,0,15
+spliddit\5_5_66619.instance,5,5,15,remove the best agent,15,4,0,15
+spliddit\5_5_66621.instance,5,5,15,existence,15,15,0,15
+spliddit\5_5_66621.instance,5,5,15,remove all the agents,13,4,0,15
+spliddit\5_5_66621.instance,5,5,15,remove the best agent,14,8,0,15
+spliddit\5_5_70662.instance,5,5,15,existence,15,15,3,15
+spliddit\5_5_70662.instance,5,5,15,remove all the agents,12,12,2,15
+spliddit\5_5_70662.instance,5,5,15,remove the best agent,14,14,2,15
+spliddit\5_5_77661.instance,5,5,15,existence,15,15,0,15
+spliddit\5_5_77661.instance,5,5,15,remove all the agents,13,13,0,15
+spliddit\5_5_77661.instance,5,5,15,remove the best agent,15,15,0,15
+spliddit\5_5_84774.instance,5,5,15,existence,15,12,4,15
+spliddit\5_5_84774.instance,5,5,15,remove all the agents,9,6,3,15
+spliddit\5_5_84774.instance,5,5,15,remove the best agent,10,4,2,15
+spliddit\5_5_84775.instance,5,5,15,existence,15,15,3,15
+spliddit\5_5_84775.instance,5,5,15,remove all the agents,10,9,3,15
+spliddit\5_5_84775.instance,5,5,15,remove the best agent,12,6,2,15
+spliddit\5_5_87478.instance,5,5,15,existence,15,15,1,15
+spliddit\5_5_87478.instance,5,5,15,remove all the agents,11,6,0,15
+spliddit\5_5_87478.instance,5,5,15,remove the best agent,15,10,0,15
+spliddit\5_5_92383.instance,5,5,15,existence,15,9,0,15
+spliddit\5_5_92383.instance,5,5,15,remove all the agents,4,0,0,15
+spliddit\5_5_92383.instance,5,5,15,remove the best agent,9,3,0,15
+spliddit\5_5_92384.instance,5,5,15,existence,15,9,0,15
+spliddit\5_5_92384.instance,5,5,15,remove all the agents,4,0,0,15
+spliddit\5_5_92384.instance,5,5,15,remove the best agent,9,3,0,15
+spliddit\5_5_92385.instance,5,5,15,existence,15,9,0,15
+spliddit\5_5_92385.instance,5,5,15,remove all the agents,4,0,0,15
+spliddit\5_5_92385.instance,5,5,15,remove the best agent,9,3,0,15
+spliddit\5_5_92386.instance,5,5,15,existence,15,9,0,15
+spliddit\5_5_92386.instance,5,5,15,remove all the agents,4,0,0,15
+spliddit\5_5_92386.instance,5,5,15,remove the best agent,9,3,0,15
+spliddit\5_6_103051.instance,5,6,15,existence,15,15,10,15
+spliddit\5_6_103051.instance,5,6,15,remove all the agents,15,15,10,15
+spliddit\5_6_103051.instance,5,6,15,remove the best agent,15,15,10,15
+spliddit\5_6_103055.instance,5,6,15,existence,15,15,10,15
+spliddit\5_6_103055.instance,5,6,15,remove all the agents,15,15,10,15
+spliddit\5_6_103055.instance,5,6,15,remove the best agent,15,15,10,15
+spliddit\5_6_103060.instance,5,6,15,existence,15,15,10,15
+spliddit\5_6_103060.instance,5,6,15,remove all the agents,15,15,10,15
+spliddit\5_6_103060.instance,5,6,15,remove the best agent,15,15,10,15
+spliddit\5_6_103185.instance,5,6,15,existence,15,12,3,15
+spliddit\5_6_103185.instance,5,6,15,remove all the agents,8,3,1,15
+spliddit\5_6_103185.instance,5,6,15,remove the best agent,11,5,1,15
+spliddit\5_6_103229.instance,5,6,15,existence,15,15,3,15
+spliddit\5_6_103229.instance,5,6,15,remove all the agents,9,7,0,15
+spliddit\5_6_103229.instance,5,6,15,remove the best agent,13,6,0,15
+spliddit\5_6_103230.instance,5,6,15,existence,15,15,15,15
+spliddit\5_6_103230.instance,5,6,15,remove all the agents,15,15,15,15
+spliddit\5_6_103230.instance,5,6,15,remove the best agent,15,15,15,15
+spliddit\5_6_103231.instance,5,6,15,existence,15,15,15,15
+spliddit\5_6_103231.instance,5,6,15,remove all the agents,15,15,15,15
+spliddit\5_6_103231.instance,5,6,15,remove the best agent,15,15,15,15
+spliddit\5_6_104608.instance,5,6,15,existence,15,15,6,15
+spliddit\5_6_104608.instance,5,6,15,remove all the agents,10,8,2,15
+spliddit\5_6_104608.instance,5,6,15,remove the best agent,9,8,2,15
+spliddit\5_6_21451.instance,5,6,15,existence,15,15,0,15
+spliddit\5_6_21451.instance,5,6,15,remove all the agents,15,0,0,15
+spliddit\5_6_21451.instance,5,6,15,remove the best agent,15,15,0,15
+spliddit\5_6_44452.instance,5,6,15,existence,15,15,6,15
+spliddit\5_6_44452.instance,5,6,15,remove all the agents,15,7,3,15
+spliddit\5_6_44452.instance,5,6,15,remove the best agent,15,8,3,15
+spliddit\5_6_44453.instance,5,6,15,existence,15,15,6,15
+spliddit\5_6_44453.instance,5,6,15,remove all the agents,15,7,3,15
+spliddit\5_6_44453.instance,5,6,15,remove the best agent,15,8,3,15
+spliddit\5_6_44456.instance,5,6,15,existence,15,15,6,15
+spliddit\5_6_44456.instance,5,6,15,remove all the agents,15,7,3,15
+spliddit\5_6_44456.instance,5,6,15,remove the best agent,15,8,3,15
+spliddit\5_6_49093.instance,5,6,15,existence,15,15,4,15
+spliddit\5_6_49093.instance,5,6,15,remove all the agents,9,8,0,13
+spliddit\5_6_49093.instance,5,6,15,remove the best agent,10,9,0,15
+spliddit\5_6_63436.instance,5,6,15,existence,15,13,2,15
+spliddit\5_6_63436.instance,5,6,15,remove all the agents,8,3,0,15
+spliddit\5_6_63436.instance,5,6,15,remove the best agent,12,4,0,15
+spliddit\5_6_63437.instance,5,6,15,existence,15,15,2,15
+spliddit\5_6_63437.instance,5,6,15,remove all the agents,9,4,1,15
+spliddit\5_6_63437.instance,5,6,15,remove the best agent,9,4,1,15
+spliddit\5_6_67343.instance,5,6,15,existence,15,15,2,15
+spliddit\5_6_67343.instance,5,6,15,remove all the agents,9,6,1,15
+spliddit\5_6_67343.instance,5,6,15,remove the best agent,12,5,1,15
+spliddit\5_6_84718.instance,5,6,15,existence,15,15,3,15
+spliddit\5_6_84718.instance,5,6,15,remove all the agents,6,6,1,15
+spliddit\5_6_84718.instance,5,6,15,remove the best agent,13,6,0,15
+spliddit\5_6_9113.instance,5,6,15,existence,15,15,3,15
+spliddit\5_6_9113.instance,5,6,15,remove all the agents,14,9,1,15
+spliddit\5_6_9113.instance,5,6,15,remove the best agent,9,4,1,15
+spliddit\5_6_9114.instance,5,6,15,existence,15,15,3,15
+spliddit\5_6_9114.instance,5,6,15,remove all the agents,12,8,1,15
+spliddit\5_6_9114.instance,5,6,15,remove the best agent,5,2,1,15
+spliddit\5_6_9115.instance,5,6,15,existence,15,8,3,15
+spliddit\5_6_9115.instance,5,6,15,remove all the agents,9,3,1,15
+spliddit\5_6_9115.instance,5,6,15,remove the best agent,5,2,1,15
+spliddit\5_6_92382.instance,5,6,15,existence,15,15,0,15
+spliddit\5_6_92382.instance,5,6,15,remove all the agents,0,0,0,15
+spliddit\5_6_92382.instance,5,6,15,remove the best agent,15,0,0,15
+spliddit\5_7_39295.instance,5,7,15,existence,15,15,3,15
+spliddit\5_7_39295.instance,5,7,15,remove all the agents,8,3,1,15
+spliddit\5_7_39295.instance,5,7,15,remove the best agent,11,4,0,15
+spliddit\5_7_39924.instance,5,7,15,existence,15,15,0,15
+spliddit\5_7_39924.instance,5,7,15,remove all the agents,15,15,0,15
+spliddit\5_7_39924.instance,5,7,15,remove the best agent,15,15,0,15
+spliddit\5_7_48710.instance,5,7,15,existence,15,15,0,15
+spliddit\5_7_48710.instance,5,7,15,remove all the agents,8,7,0,15
+spliddit\5_7_48710.instance,5,7,15,remove the best agent,9,9,0,15
+spliddit\5_7_81376.instance,5,7,15,existence,15,15,5,15
+spliddit\5_7_81376.instance,5,7,15,remove all the agents,13,12,3,15
+spliddit\5_7_81376.instance,5,7,15,remove the best agent,14,8,2,15
+spliddit\5_8_17399.instance,5,8,15,existence,15,15,0,15
+spliddit\5_8_17399.instance,5,8,15,remove all the agents,8,8,0,15
+spliddit\5_8_17399.instance,5,8,15,remove the best agent,14,11,0,15
+spliddit\5_8_68304.instance,5,8,15,existence,15,15,8,15
+spliddit\5_8_68304.instance,5,8,15,remove all the agents,13,8,1,15
+spliddit\5_8_68304.instance,5,8,15,remove the best agent,13,6,1,15
+spliddit\5_8_94090.instance,5,8,15,existence,15,15,12,15
+spliddit\5_8_94090.instance,5,8,15,remove all the agents,12,9,6,15
+spliddit\5_8_94090.instance,5,8,15,remove the best agent,10,8,4,15
+spliddit\5_8_94927.instance,5,8,15,existence,15,15,15,15
+spliddit\5_8_94927.instance,5,8,15,remove all the agents,11,11,7,15
+spliddit\5_8_94927.instance,5,8,15,remove the best agent,11,6,4,15
+spliddit\5_9_15836.instance,5,9,15,existence,15,15,15,15
+spliddit\5_9_15836.instance,5,9,15,remove all the agents,12,8,2,15
+spliddit\5_9_15836.instance,5,9,15,remove the best agent,11,9,2,15
+spliddit\5_9_15837.instance,5,9,15,existence,15,15,15,15
+spliddit\5_9_15837.instance,5,9,15,remove all the agents,12,8,2,15
+spliddit\5_9_15837.instance,5,9,15,remove the best agent,11,9,2,15
+spliddit\5_9_49090.instance,5,9,15,existence,15,15,4,15
+spliddit\5_9_49090.instance,5,9,15,remove all the agents,6,3,0,15
+spliddit\5_9_49090.instance,5,9,15,remove the best agent,7,4,0,15
+spliddit\5_9_6530.instance,5,9,15,existence,15,15,0,15
+spliddit\5_9_6530.instance,5,9,15,remove all the agents,12,2,0,15
+spliddit\5_9_6530.instance,5,9,15,remove the best agent,12,2,0,15
+spliddit\5_9_81353.instance,5,9,15,existence,15,15,10,15
+spliddit\5_9_81353.instance,5,9,15,remove all the agents,10,7,3,15
+spliddit\5_9_81353.instance,5,9,15,remove the best agent,14,9,2,15
+spliddit\6_12_85848.instance,6,12,15,existence,15,15,15,15
+spliddit\6_12_85848.instance,6,12,15,remove all the agents,7,0,0,15
+spliddit\6_12_85848.instance,6,12,15,remove the best agent,13,2,0,15
+spliddit\6_15_53346.instance,6,15,15,existence,15,15,8,15
+spliddit\6_15_53346.instance,6,15,15,remove all the agents,4,2,0,15
+spliddit\6_15_53346.instance,6,15,15,remove the best agent,8,4,0,15
+spliddit\6_17_104867.instance,6,17,15,existence,15,15,15,15
+spliddit\6_17_104867.instance,6,17,15,remove all the agents,14,10,6,15
+spliddit\6_17_104867.instance,6,17,15,remove the best agent,13,7,4,15
+spliddit\6_34_9474.instance,6,34,15,existence,15,15,15,15
+spliddit\6_34_9474.instance,6,34,15,remove all the agents,15,15,15,15
+spliddit\6_34_9474.instance,6,34,15,remove the best agent,15,15,15,15
+spliddit\6_3_45049.instance,6,3,15,existence,15,15,0,15
+spliddit\6_3_45049.instance,6,3,15,remove all the agents,3,3,0,15
+spliddit\6_3_45049.instance,6,3,15,remove the best agent,12,12,0,15
+spliddit\6_59_57815.instance,6,59,15,existence,15,15,15,15
+spliddit\6_59_57815.instance,6,59,15,remove all the agents,14,12,12,15
+spliddit\6_59_57815.instance,6,59,15,remove the best agent,14,12,12,15
+spliddit\6_5_61518.instance,6,5,15,existence,15,15,0,15
+spliddit\6_5_61518.instance,6,5,15,remove all the agents,10,8,0,15
+spliddit\6_5_61518.instance,6,5,15,remove the best agent,14,9,0,15
+spliddit\6_6_105099.instance,6,6,15,existence,15,9,2,15
+spliddit\6_6_105099.instance,6,6,15,remove all the agents,5,2,0,15
+spliddit\6_6_105099.instance,6,6,15,remove the best agent,9,2,0,15
+spliddit\6_6_12968.instance,6,6,15,existence,15,15,0,15
+spliddit\6_6_12968.instance,6,6,15,remove all the agents,10,3,0,15
+spliddit\6_6_12968.instance,6,6,15,remove the best agent,13,3,0,15
+spliddit\6_6_18063.instance,6,6,15,existence,15,15,0,15
+spliddit\6_6_18063.instance,6,6,15,remove all the agents,6,1,0,15
+spliddit\6_6_18063.instance,6,6,15,remove the best agent,15,2,0,15
+spliddit\6_6_55718.instance,6,6,15,existence,15,15,3,15
+spliddit\6_6_55718.instance,6,6,15,remove all the agents,12,8,2,15
+spliddit\6_6_55718.instance,6,6,15,remove the best agent,13,10,2,15
+spliddit\6_8_53492.instance,6,8,15,existence,15,15,3,15
+spliddit\6_8_53492.instance,6,8,15,remove all the agents,15,3,3,15
+spliddit\6_8_53492.instance,6,8,15,remove the best agent,15,3,3,15
+spliddit\6_9_53493.instance,6,9,15,existence,15,15,3,15
+spliddit\6_9_53493.instance,6,9,15,remove all the agents,15,3,3,15
+spliddit\6_9_53493.instance,6,9,15,remove the best agent,15,3,3,15
+spliddit\6_9_64779.instance,6,9,15,existence,15,15,13,15
+spliddit\6_9_64779.instance,6,9,15,remove all the agents,11,7,2,15
+spliddit\6_9_64779.instance,6,9,15,remove the best agent,13,7,2,15
+spliddit\6_9_92562.instance,6,9,15,existence,15,15,3,15
+spliddit\6_9_92562.instance,6,9,15,remove all the agents,15,10,0,15
+spliddit\6_9_92562.instance,6,9,15,remove the best agent,15,10,0,15
+spliddit\7_15_53473.instance,7,15,105,existence,105,105,27,105
+spliddit\7_15_53473.instance,7,15,105,remove all the agents,39,17,7,103
+spliddit\7_15_53473.instance,7,15,105,remove the best agent,45,17,8,105
+spliddit\7_15_53479.instance,7,15,105,existence,105,90,0,105
+spliddit\7_15_53479.instance,7,15,105,remove all the agents,71,71,0,90
+spliddit\7_15_53479.instance,7,15,105,remove the best agent,82,82,0,105
+spliddit\7_15_54101.instance,7,15,105,existence,105,105,105,105
+spliddit\7_15_54101.instance,7,15,105,remove all the agents,52,17,2,105
+spliddit\7_15_54101.instance,7,15,105,remove the best agent,64,14,1,105
+spliddit\7_35_67519.instance,7,35,105,existence,105,105,105,105
+spliddit\7_35_67519.instance,7,35,105,remove all the agents,82,49,29,105
+spliddit\7_35_67519.instance,7,35,105,remove the best agent,82,47,28,105
+spliddit\8_16_53471.instance,8,16,105,existence,105,105,19,105
+spliddit\8_16_53471.instance,8,16,105,remove all the agents,40,1,1,105
+spliddit\8_16_53471.instance,8,16,105,remove the best agent,41,1,1,105
+spliddit\8_16_53476.instance,8,16,105,existence,105,105,92,105
+spliddit\8_16_53476.instance,8,16,105,remove all the agents,62,2,1,105
+spliddit\8_16_53476.instance,8,16,105,remove the best agent,76,3,1,105
+spliddit\8_16_53489.instance,8,16,105,existence,105,105,105,105
+spliddit\8_16_53489.instance,8,16,105,remove all the agents,78,12,7,105
+spliddit\8_16_53489.instance,8,16,105,remove the best agent,77,13,6,105
+spliddit\8_8_58835.instance,8,8,105,existence,105,105,4,105
+spliddit\8_8_58835.instance,8,8,105,remove all the agents,93,93,3,105
+spliddit\8_8_58835.instance,8,8,105,remove the best agent,103,92,3,105
+spliddit\8_8_58837.instance,8,8,105,existence,105,105,46,105
+spliddit\8_8_58837.instance,8,8,105,remove all the agents,75,75,34,105
+spliddit\8_8_58837.instance,8,8,105,remove the best agent,105,105,46,105
+spliddit\8_8_58838.instance,8,8,105,existence,105,105,5,105
+spliddit\8_8_58838.instance,8,8,105,remove all the agents,30,6,0,105
+spliddit\8_8_58838.instance,8,8,105,remove the best agent,60,0,0,105
+spliddit\8_8_58841.instance,8,8,105,existence,105,105,10,105
+spliddit\8_8_58841.instance,8,8,105,remove all the agents,47,6,0,105
+spliddit\8_8_58841.instance,8,8,105,remove the best agent,45,8,0,105
+spliddit\8_8_59566.instance,8,8,105,existence,105,105,3,105
+spliddit\8_8_59566.instance,8,8,105,remove all the agents,50,31,0,105
+spliddit\8_8_59566.instance,8,8,105,remove the best agent,93,69,0,105
+spliddit\8_8_59567.instance,8,8,105,existence,105,105,0,105
+spliddit\8_8_59567.instance,8,8,105,remove all the agents,27,6,0,105
+spliddit\8_8_59567.instance,8,8,105,remove the best agent,78,36,0,105
+spliddit\8_8_59568.instance,8,8,105,existence,105,105,0,105
+spliddit\8_8_59568.instance,8,8,105,remove all the agents,18,0,0,105
+spliddit\8_8_59568.instance,8,8,105,remove the best agent,70,0,0,105
+spliddit\8_8_70347.instance,8,8,105,existence,105,82,2,105
+spliddit\8_8_70347.instance,8,8,105,remove all the agents,51,8,1,103
+spliddit\8_8_70347.instance,8,8,105,remove the best agent,59,10,2,105
+spliddit\8_8_73381.instance,8,8,105,existence,105,12,0,105
+spliddit\8_8_73381.instance,8,8,105,remove all the agents,46,5,0,104
+spliddit\8_8_73381.instance,8,8,105,remove the best agent,42,4,0,105
+spliddit\8_8_73387.instance,8,8,105,existence,105,105,12,105
+spliddit\8_8_73387.instance,8,8,105,remove all the agents,63,28,0,105
+spliddit\8_8_73387.instance,8,8,105,remove the best agent,71,21,0,105
+spliddit\8_8_73418.instance,8,8,105,existence,105,105,3,105
+spliddit\8_8_73418.instance,8,8,105,remove all the agents,50,7,0,105
+spliddit\8_8_73418.instance,8,8,105,remove the best agent,65,6,0,105
+spliddit\9_9_6518.instance,9,9,945,existence,945,942,0,945
+spliddit\9_9_6518.instance,9,9,945,remove all the agents,310,46,0,945
+spliddit\9_9_6518.instance,9,9,945,remove the best agent,329,37,0,945
+spliddit\9_9_6608.instance,9,9,945,existence,945,377,0,945
+spliddit\9_9_6608.instance,9,9,945,remove all the agents,291,17,0,943
+spliddit\9_9_6608.instance,9,9,945,remove the best agent,362,9,0,945
